@@ -1,8 +1,0 @@
-Cài nodejs và npm
-mkdir css
-npm install gulp-cli -g
-npm install gulp -D
-npm install node-sass gulp-sass --save-dev
-
-tạo file gulpfile.js code trong đó
-chạy chuyển từ scss sang css: gulp scss
